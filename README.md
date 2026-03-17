@@ -3,11 +3,11 @@
 This repository contains my personal data analytics portfolio website. The website showcases my data analysis projects, data visualizations, and technical skills in Python, SQL, and data analytics.
 
 The goal of this portfolio is to present my work in a clear and professional way for recruiters, collaborators, and anyone interested in my projects.
----
+
 ## Live Website
 You can view the portfolio here:
 [click here](https://shivani-vishwakarmaa.github.io/Data-analysis-portfolio/)
----
+
 
 ## About Me
 I am a data enthusiast interested in transforming raw data into meaningful insights. I enjoy working with data analysis, visualization, and building tools that help people understand data better.
