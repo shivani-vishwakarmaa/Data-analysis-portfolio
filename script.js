@@ -158,10 +158,10 @@ document.querySelectorAll('.project-card').forEach(card => {
 const titleEl = document.querySelector('.hero__title');
 if (titleEl) {
   const texts = [
-    'Data Analyst · Python · SQL · Data Visualization',
-    'Transforming Data into Business Insights',
-    'EDA · Dashboards · Data Storytelling'
-  ];
+  'Data Analyst & AI Builder · Python · SQL · AI-Powered Analytics',
+  'Building AI-Powered Data Applications',
+  'Python · SQL · Machine Learning · Analytics'
+];
   let idx = 0;
   let charIdx = 0;
   let deleting = false;
